@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Peña Anzaldo</h1>
-<h3 align="center">Soy desarrollador de software con nodejs y angular</h3>
+<h3 align="center">I'm a software developer with Spring boot, nodejs and angular</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinanzaldop" alt="martinanzaldop" /></a> </p>
 
