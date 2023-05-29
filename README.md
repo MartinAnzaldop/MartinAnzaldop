@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Peña Anzaldo</h1>
-<h3 align="center">I'm a software developer with nodejs and angular</h3>
+<h3 align="center">I'm a software developer with Spring boot, nodejs and angular</h3>
 
 - 🔭 I'm working backend with nodejs [MarketingBoots](https://github.com/MartinAnzaldop/MarketingBoots-black)
 
