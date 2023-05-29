@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nodejs, Spring boot**
 
-- 🤝 I’m angular, nodejs and Spring boot [ApiLoginToken-Nodejs](https://github.com/MartinAnzaldop/backend-crudProductos)
+- 🤝 I’m learning angular, nodejs and Spring boot [ApiLoginToken-Nodejs](https://github.com/MartinAnzaldop/backend-crudProductos)
 
 - 💬 Ask me about **Angular and Spring boot**
 
